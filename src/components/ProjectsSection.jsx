@@ -23,7 +23,7 @@ const projects = [
         description: "I've analyzed plant pathogen genomes to explore strain diversity and its implications for improving disease resistance in plants.",
         image:"/projects/max_search_project.png",
         tags:["Sequence Homology Searches", "Population Genomics", "Pathogen Evolution"],
-        URL: "https://github.com/alexanderjhoward/RonaldLab/tree/master/MAXsearch",
+        URL: "https://github.com/alexanderjhoward/MagnaportheEffectorSearch",
     },
 ]
 
